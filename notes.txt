@@ -1,0 +1,2 @@
+notes manager task done
+should push it to the git repo
